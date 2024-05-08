@@ -46,7 +46,7 @@ Here’s how to use the Link Cleaner Tool:
 
 ## Screenshots 📸
 
-(Add screenshots of the application GUI here)
+[![Jr6K5R2.md.png](https://iili.io/Jr6K5R2.md.png)](https://freeimage.host/i/Jr6K5R2)
 
 ## Contributing 🤝
 
